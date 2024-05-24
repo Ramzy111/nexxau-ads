@@ -4225,18 +4225,18 @@ display:none;
         }
 
 
-@media (min-width: 769px) and (max-width: 1024px) {
+@media (min-width: 769px) and (max-width: 1023.999px) {
 
   /**********************************First Section*********************************************************/
 
   html {
-    height: 5085%;
-    width: 400%;
+    height: 800%;
+    width:100%;
     background-color: black;
 }
 
        #hero-section-header {
-        color:purple;
+        color:white;
         font-size:5rem;
         min-width:500px;
         left:2.5%;
@@ -4598,8 +4598,10 @@ display:none;
 }
 
 #fourth-section-learn-more-button {
-  top:460%;
-  left:40%;
+  top:465%;
+  left:35%;
+  width:30%;
+  height:5%;
 }
 
 
@@ -4607,73 +4609,73 @@ display:none;
 
 
 .clicks-today-box {
-  top:467.5%;
+  top:487.5%;
   left:45%;
 }
 
 #clicks-today-number  {
-  top:467.5%;
+  top:487.5%;
   left:49.5%;
   
 }
 
 
 #clicks-today-subheading  {
-  top:474.5%;
+  top:494.5%;
   left:50%;
 }
 
 /*Second Boxes*/
 
 .notifications-sent-today-box {
-  top:483.5%;
+  top:503.5%;
   left:20%;
 }
 
 #notifications-sent-today-number  {
-  top:483.5%;
+  top:503.5%;
   left:24.5%;
   
 }
 
 #notifications-sent-today-subheading  {
-  top:490.25%;
+  top:510.25%;
   left:25%;
 }
 
 /*Third Boxes*/
 
 .monthly-sent-notifications-box {
-  top:483.5%;
+  top:503.5%;
   left:58%;
 }
 
 #monthly-sent-notifications-number  {
-  top:483.5%;
+  top:503.5%;
   left:60.5%;
   
 }
 
 #monthly-sent-notifications-subheading  {
-  top:490.25%;
+  top:510.25%;
   left:61%;
 }
 
 /*Fourth Boxes*/
 
 .partners-worldwide-box {
-  top:499.5%;
+  top:519.5%;
   left:35%;
 }
 
 #partners-worldwide-number  {
-  top:499.5%;
+  top:519.5%;
   left:39.5%;
   
 }
 
 #partners-worldwide-subheading  {
-  top:506.5%;
+  top:526.5%;
   left:40%;
 }
 
@@ -4681,7 +4683,10 @@ display:none;
 
 #developers-subtitle-button-fifth-section {
 top:550%;
-left:40%;
+left:36%;
+width:25%;
+height:5%;
+font-size:1.25rem;
 }
 
 #fifth-section-heading  {
@@ -4739,14 +4744,14 @@ left:6.5%;
 }
 
 #footer-description {
-top:780%;
+top:773%;
 left:6.5%;
 font-size:1.25rem;
 max-width:380px;
 }
 
 #footer-email-address {
-  top:795%;
+  top:790%;
   left:6.5%;
   font-size:1.25rem;
 }
@@ -4813,6 +4818,407 @@ max-width:380px;
   top:788%;
   left:78%;
   font-size:1.25rem;
+}
+
+}
+
+
+@media (min-width: 1024px) and (max-width: 1200px) {
+  
+  html {
+    height: 740%;
+    width: 100%;
+  }
+
+ #hero-section-header {
+  color:white;
+ } 
+
+ #hero-section-subheader {
+  left:20%;
+  font-size:1.75rem;
+  line-height:3rem;
+  top:6.5%;
+ } 
+
+ #hero-section-header-get-started-button  {
+  left:42%;
+  width:20%;
+  height:1%;
+  font-size:1.5rem;
+ }
+
+#navbar-section-header-get-started-button {
+top:3.5%;
+}
+
+#hero-section-tabs-image  {
+  left:20%;
+}
+
+/*********************Second Section********************************/
+
+#solving-subtitle-button  {
+  left:35%;
+}
+
+#second-section-heading {
+  left:15%;
+}
+
+/*Boxes Start*/
+
+#second-section-first-heading {
+  left:20%;
+  font-size:2rem;
+}
+
+#second-section-first-subheading  {
+  left:10%;
+  font-size:1.5rem;
+}
+
+#second-section-world-icon  {
+  top:195.5%;
+  left:22%;
+  width:5.75%;
+  height:5.5%;
+}
+
+/*Second Box*/
+
+#second-section-second-heading {
+  left:69%;
+  font-size:2rem;
+}
+
+#second-section-second-subheading  {
+  left:60%;
+  font-size:1.5rem;
+}
+
+#second-section-lock-icon  {
+  top:195.5%;
+  left:72%;
+  width:5.75%;
+  height:5.5%;
+}
+
+/*Third Box*/
+
+#second-section-third-heading {
+  left:16.5%;
+  font-size:2rem;
+}
+
+#second-section-third-subheading  {
+  left:10%;
+  font-size:1.5rem;
+}
+
+#second-section-switch-icon  {
+  top:225.5%;
+  left:22%;
+  width:5.75%;
+  height:5.5%;
+}
+
+/*Fourth Box*/
+
+#second-section-fourth-heading {
+  left:69%;
+  font-size:2rem;
+}
+
+#second-section-fourth-subheading  {
+  left:60%;
+  font-size:1.5rem;
+  line-height: 1.75rem;
+}
+
+#second-section-bolt-icon  {
+  top:225.75%;
+  left:72.25%;
+  width:5.5%;
+  height:5.25%;
+}
+
+/*Fifth Box*/
+
+#second-section-fifth-heading {
+  left:18%;
+  font-size:2rem;
+}
+
+#second-section-fifth-subheading  {
+  left:10%;
+  font-size:1.5rem;
+}
+
+#second-section-box-icon  {
+  top:255.5%;
+  left:22%;
+  width:5.75%;
+  height:5.5%;
+}
+
+/*Sixth Box*/
+
+#second-section-sixth-heading {
+  left:65%;
+  font-size:2rem;
+}
+
+#second-section-sixth-subheading  {
+  left:60%;
+  font-size:1.5rem;
+  line-height: 1.75rem;
+}
+
+#second-section-copy-icon  {
+  top:255.75%;
+  left:72.5%;
+  width:5.5%;
+  height:5.25%;
+}
+
+/*********************Third Section********************************/
+
+#solving-subtitle-button-third-section  {
+  left:37.5%;
+}
+
+#third-section-heading  {
+  left:15%;
+}
+
+#third-section-subheading  {
+  left:2.75%;
+  font-size:2rem;
+  line-height:2.5rem;
+  min-width:900px;
+  max-width:950px;
+}
+
+/*********************Fourth Section********************************/
+
+#stats-subtitle-button-fourth-section {
+  left:37.5%;
+}
+
+#fourth-section-heading {
+  left:17.5%;
+}
+
+#fourth-section-subheading {
+  left:19.5%;
+  font-size:1.75rem;
+  line-height:3rem;
+  top:435%;
+
+}
+
+#fourth-section-learn-more-button {
+  width:20%;
+  height:4%;
+  top:468.5%;
+  font-size:1.25rem;
+}
+
+/*Boxes Begin*/
+
+.clicks-today-box {
+  top:477.5%;
+}
+
+#clicks-today-number  {
+  top:477.5%;
+}
+
+#clicks-today-subheading  {
+  top:484%;
+  font-size:1.25rem;
+}
+
+/*Second Box*/
+
+.notifications-sent-today-box {
+  top:491%;
+  left:27.5%;
+}
+
+#notifications-sent-today-number  {
+  top:491%;
+  left:30%;
+}
+
+#notifications-sent-today-subheading  {
+  top:497.5%;
+  left:30%;
+  font-size:1.25rem;
+}
+
+/*Third Box*/
+
+.monthly-sent-notifications-box {
+  top:491%;
+}
+
+#monthly-sent-notifications-number  {
+  top:491%;
+}
+
+#monthly-sent-notifications-subheading  {
+  top:497.5%;
+  left:60%;
+  font-size:1.2rem;
+}
+
+/*Fourth Box*/
+
+.partners-worldwide-box {
+  top:504.5%;
+}
+
+#partners-worldwide-number  {
+  top:504.5%;
+}
+
+#partners-worldwide-subheading  {
+  top:511%;
+  font-size:1.25rem;
+}
+
+/*********************Fifth Section********************************/
+
+#developers-subtitle-button-fifth-section {
+  top:530%;/*251*/
+  width:25%;/*67*/
+  height:5%;
+  font-size:1.25rem;
+  left:37%;
+}
+
+#fifth-section-heading  {
+  top:535%;
+  left:25%;
+  max-width:500px;
+  min-width:400px;
+}
+
+#fifth-section-subheading {
+  top:560%;
+  left:15%;
+  max-width:700px;
+  min-width:500px;
+  font-size:1.75rem;
+  line-height:3rem;
+}
+
+#fifth-section-tabs-image {
+  top:590%;
+  left:12.5%;
+}
+
+/*********************Sixth Section********************************/
+
+.sixth-section-sign-up-banner {
+  top:670%;
+}
+
+#email-newsletter {
+font-size:1.75rem;
+width:50%;
+height:20%;
+top:65%;
+left:10%;
+}
+
+#submit-email-newsletter  {
+  font-size:1.5rem;
+width:30%;
+height:20%;
+top:65%;
+}
+
+/*********************Footer Section********************************/
+
+#footer-logo  {
+  top:710%;
+}
+
+#footer-description {
+top:715%;
+font-size:2rem;
+min-width:400px;
+max-width:500px;
+line-height:2.5rem;
+}
+
+#footer-email-address {
+  top:735%;
+  font-size:1.75rem;
+}
+
+#quick-links-footer {
+  top:715%;
+  font-size:1.75rem;
+  left:60%;
+}
+
+#about-footer {
+  top:720%;
+  left:60%;
+  font-size:1.5rem;
+}
+
+#technology-footer {
+  top:724%;
+  left:60%;
+  font-size:1.5rem;
+}
+
+#contact-footer {
+  top:728%;
+  left:60%;
+  font-size:1.5rem;
+}
+
+#blog-footer {
+  top:732%;
+  left:60%;
+  font-size:1.5rem;
+}
+
+
+#social-medias-footer {
+  top:715%;
+  font-size:1.75rem;
+  left:82.5%;
+}
+
+#facebook-footer {
+  top:720%;
+  left:82.5%;
+  font-size:1.5rem;
+}
+
+#instagram-footer {
+  top:724%;
+  left:82.5%;
+  font-size:1.5rem;
+}
+
+#twitter-footer {
+  top:728%;
+  left:82.5%;
+  font-size:1.5rem;
+}
+
+#youtube-footer {
+  top:732%;
+  left:82.5%;
+  font-size:1.5rem;
 }
 
 }
