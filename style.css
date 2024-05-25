@@ -5440,7 +5440,7 @@ top:225.5%;
 /****************************************Fourth Section****************************************/
 
 #stats-subtitle-button-fourth-section {
-  left: 65%;
+  left: 57.5%;
   top:425%;
   width:12.5%;
   height:6%;
@@ -5449,85 +5449,85 @@ top:225.5%;
 
 #fourth-section-heading {
   top:430%;
-  left:65%;
+  left: 57.5%;
 }
 
 #fourth-section-subheading {
   top:455%;
-  left:65%;
+  left: 57.5%;
 }
 
 #fourth-section-learn-more-button {
   top:497.5%;
-  left:65%;
+  left: 57.5%;
 }
 
 /*Box One*/
 
 .clicks-today-box {
 top:427.5%;
-left:29%;
+left:24%;
 }
 
 #clicks-today-number  {
   top:427.5%;
-  left:31%;
+  left:26%;
 }
 
 #clicks-today-subheading  {
   top:437.5%;
-  left:31%;
+  left:26%;
 }
 
 /*Box Two*/
 
 .notifications-sent-today-box {
   top:450%;
-  left:13%;
+  left:8%;
   }
   
   #notifications-sent-today-number  {
     top:450%;
-    left:15%;
+    left:10%;
   }
   
   #notifications-sent-today-subheading  {
     top:460%;
-    left:15%;
+    left:10%;
   }
 
   /*Box Three*/
 
 .monthly-sent-notifications-box {
   top:450%;
-  left:34%;
+  left:29%;
   }
   
   #monthly-sent-notifications-number  {
     top:450%;
-    left:36%;
+    left:31%;
   }
   
   #monthly-sent-notifications-subheading  {
     top:460%;
-    left:36%;
+    left:31%;
   }
 
   /*Box Four*/
 
 .partners-worldwide-box {
   top:472.5%;
-  left:19%;
+  left:14%;
   }
   
   #partners-worldwide-number  {
     top:472.5%;
-    left:21%;
+    left:16%;
   }
   
   #partners-worldwide-subheading  {
     top:482.5%;
-    left:21%;
+    left:16%;
   }
 
   /****************************************Fifth Section****************************************/
